@@ -32,3 +32,6 @@ to purchase products within the Food, Clothing, and Electronics categories.
 
 - LinkedIn: https://www.linkedin.com/in/ayesha-ramzan-1273b8275/
 - Email: ayesharamzan841@gmail.com
+git add . // for stage changes 
+git commit -m 'commit message to add'
+git push 
